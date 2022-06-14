@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Working on Azure static web app 
+        Working on Azure static web app.
         </p>
         <a
           className="App-link"
