@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Now I will make new commit and will look for deployment process</p>
       </header>
     </div>
   );
